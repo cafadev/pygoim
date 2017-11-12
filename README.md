@@ -1,6 +1,8 @@
 # Pygoim
 Pequeño modulo desarrollado en python para descarga de imagenes utilizando el motor de Google
 
+El modulo solo ha sido probado en Linux.
+
 ## Requerimientos
 Para que Pygoim funcione correctamente necesita los siguientes modulos.
 
@@ -60,3 +62,6 @@ Esta función recibe un diccionario como el siguiente:
 }
 ```
 Y la dirección local donde se guardara la imágen.
+
+## Bugs
+Hasta el momento el unico bug del que puedo informar es que, algunas de las imágenes que se descargan no pueden ser leídas.
