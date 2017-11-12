@@ -26,7 +26,7 @@ for img_dict in img_list:
 
 ```
 
-## Función .download_page(search, size=None, color=None, type_=None, cpr=Non)
+## Función .download_page(search, size=None, color=None, type_=None, cpr=None)
 1. search: texto de busqueda
 2. size: texto indicando el tamaño de las imagenes.
   - lg
